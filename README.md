@@ -22,14 +22,12 @@
 
 ---
 
-## 🏆 GitHub Trophies  
-
+## 🏆 GitHub Trophies
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mewdiegamer&theme=tokyonight&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=niloy-saha-123&theme=tokyonight&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
-
 ---
 
 ## 🛠 Tech Stack  
