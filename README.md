@@ -1,56 +1,99 @@
-# Mohammed Faraz Kabbo
+# Mohammed Faraz Kabbo  
+### Software Developer | AI & Data Enthusiast | Computer Science @ York University  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/snehaow/](https://www.linkedin.com/in/mohammed-faraz-kabbo/))
-[![Portfolio](https://img.shields.io/badge/-Portfolio-0072b1?style=for-the-badge&logo=portfolio&logoColor=white)](https://farazkabbo.github.io/Portfolio/)
+<div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faraz18@my.yorku.ca)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](your-portfolio-url)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](your-github-url)
 
+![](https://komarev.com/ghpvc/?username=Mewdiegamer&style=for-the-badge&color=blue&label=PROFILE+VIEWS)
 
-</p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farazkabbo&show_icons=true&locale=en&theme=dark" alt="farazkabbo" /></p>
+</div>
 
+---
 
+## 👨‍💻 About Me  
+- 🎓 **Computer Science (Hons.)** student at **York University (Lassonde School of Engineering)**  
+- 🚀 **Co-founder & Developer** at **FashionX** – an AI-powered fashion recommendation startup  
+- 💡 Passionate about **AI, Data Science, Backend Development, and Scalable Software Solutions**  
+- 🎨 **Animation & Design Enthusiast** – Coding and drawing are my creative escapes  
 
+---
 
-## Projects
-| Project Name | Description |
-| ------------ | ----------- |
-| [Bank Management System](https://github.com/farazkabbo/Bank-Management) | **Languages:** Java,MySQL,HTML, CSS, JavaScript, Java Servlets, and JSP (JavaServer Pages) Eclipse<br>Developed a comprehensive Bank Management System using Java, integrating MySQL for data management Creating an advanced ATM Database Portal using Java, MySQL, and integrating web technologies like HTML, CSS, and JavaScript can significantly enhance the user interface and accessibility of the system.<br>Successfully integrated error-handling mechanisms to validate course registrations, resulting in a 30% decrease in registration errors and ensuring data integrity. |
-| [Chess Game](https://github.com/farazkabbo/Chess-Game) | **Languages:** Python<br>Developed a complete chess game application using Python, implementing standard chess rules and gameplay functionalities.<br>Reduced game loading time by 30% through code optimization and resource management techniques.<br>Implemented a graphical user interface (GUI) using the Pygame library and resolved 95% of bugs within 24 hours of submission to provide a visually engaging gaming experience. |
-| [Snake Game](https://github.com/farazkabbo/Snake-Game) |  **Languages:** Python, Pygame<br>Developed a classic Snake game using Python and Pygame, demonstrating proficiency in game development.<br>Implemented smooth and responsive controls with keyboard inputs.<br>Designed a visually appealing grid and snake graphics, with a scoring system to track player progress.<br>Achieved robust gameplay mechanics including collision detection and random food placement.<br>|
-| [AI Form Autofill App](https://docs.google.com/presentation/d/1a8LEFhxny9qdMVio7f8PluFQK1Y4SDimWOEMAx21ZZA/edit?usp=sharing) | **Technologies:** Python<br>The AI-powered autofill app optimizes form completion by intelligently populating fields, enhancing efficiency, accuracy, and user experience.<br>Reduced form completion time by 40% and increased data accuracy by 30% through intelligent autofill functionality.<br>Streamlined administrative processes, saving an average of 2 hours per user per week. |
-| [Image Gallery](https://github.com/farazkabbo/Image-Gallery) | **Languages:** HTML,CSS&Javascript<br>mplemented a user-friendly interface allowing users to view images of various categories such as person, nature, and others, enhancing browsing experience and accessibility, and used JS to give some animations.<br>Currently managing the transition of the Image Gallery into a robust image database, aimed at improving functionality and scalability for future enhancements. This initiative reflects a strong commitment to continuous development and optimization. |
-| [Student and Course Management System](https://github.com/farazkabbo/Student-and-course-management-system) | **Languages:** Java, Data Structures, Eclipse<br>Pioneered the development of a Java-based Student and Course Management System, instrumental in automating course registration and management processes.<br>Successfully integrated error-handling mechanisms to validate course registrations, resulting in a 30% decrease in registration errors and ensuring data integrity. |
+## 🏆 GitHub Trophies  
 
+<div align="center">
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mewdiegamer&theme=tokyonight&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+## 🛠 Tech Stack  
 
+### Languages & Core Technologies  
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)  
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)  
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.cppreference.com/w/)  
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)  
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.mysql.com/)  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farazkabbo&theme=dark" alt="farazkabbo" /></p>
+### Frameworks & Libraries  
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)  
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)  
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)  
+[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)  
+[![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)  
+[![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)  
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/shoumik011/count.svg" />
-</p>
+### Cloud & Databases  
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)  
+[![Azure](https://img.shields.io/badge/Azure-0078D7?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)  
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)  
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)  
 
-<!--
-**farazkabbo/farazkabbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 Featured Projects  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **FashionX – AI-Powered Fashion Recommendation Engine**  
+- **Developed AI recommendation system** using **TensorFlow and OpenAI CLIP**, achieving **76% match accuracy**.  
+- **Designed a multi-database system** (PostgreSQL, MongoDB) to handle **1TB+ of structured/unstructured data**.  
+- **Managed product documentation** and workflows using **SharePoint** and collaboration tools.  
+
+### **StudyBuddy – AI-Powered Learning Platform**  
+- Developed **real-time transcription** (81% accuracy) using **Whisper (OpenAI)**, processing **120+ requests daily**.  
+- Implemented **lecture summarization and detailed notes** using **Google Gemini LLM** (88% accuracy).  
+- Integrated **Clerk authentication** for user sessions with **98% reliability**.  
+
+### **Cyclist Bike-Share Case Study**  
+- Created an **ETL pipeline processing 2.5M+ rows**, reducing query time by **75%** using **BigQuery**.  
+- Developed **statistical models in R** predicting **user behavior with 89% accuracy**.  
+- Built **interactive Power BI dashboards** for real-time KPIs, reducing reporting time by **85%**.  
+
+---
+
+## 📈 GitHub Stats  
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mewdiegamer&theme=tokyonight&show_icons=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mewdiegamer&layout=compact&theme=tokyonight)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mewdiegamer&theme=tokyonight)](https://git.io/streak-stats)  
+
+</div>
+
+---
+
+## 🤝 Connect & Collaborate  
+- Open to **collaborations on AI, Data Science, and Backend Development projects**.  
+- Interested in **full-stack development and AI-driven applications**.  
+- Looking to contribute to **open-source projects and innovative tech solutions**.  
+
+---
+
+Let me know if you need any changes or additional customizations! 🚀
