@@ -65,6 +65,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/farazkabbo/farazkabbo/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/farazkabbo/farazkabbo/output/dist/snake.svg" alt="Snake animation" />
 
 ###
