@@ -75,16 +75,24 @@
 
 ---
 
-## 📈 GitHub Stats  
+## 📈 GitHub Stats
 
 <div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=niloy-saha-123&theme=tokyonight&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=niloy-saha-123&layout=compact&theme=tokyonight)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mewdiegamer&theme=tokyonight&show_icons=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mewdiegamer&layout=compact&theme=tokyonight)  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mewdiegamer&theme=tokyonight)](https://git.io/streak-stats)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=niloy-saha-123&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
 
+## 📊 Contribution Graph
+
+<div align="center">
+  
+[![Niloy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=niloy-saha-123&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
 ---
 
 ## 🤝 Connect & Collaborate  
