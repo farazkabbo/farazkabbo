@@ -8,12 +8,19 @@ on:
     branches:
     - main
 
+permissions:
+  contents: write
+
 jobs:
   build:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      
+        with:
+          persist-credentials: false
+          
       - uses: Platane/snk@master
         id: snake-gif
         with:
