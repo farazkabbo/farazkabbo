@@ -39,7 +39,7 @@
 
 ### **FashionX – AI-Powered Fashion Recommendation Engine**  
 - **Developed AI recommendation system** using **TensorFlow and OpenAI CLIP**, achieving **76% match accuracy**.  
-- **Designed a multi-database system** (PostgreSQL, MongoDB) to handle **1TB+ of structured/unstructured data**.  
+- **Designed a multi-database system** (**PostgreSQL, MongoDB**) to handle **1TB+ of structured/unstructured data**.  
 - **Managed product documentation** and workflows using **SharePoint** and collaboration tools.  
 
 ### **StudyBuddy – AI-Powered Learning Platform**  
@@ -47,13 +47,23 @@
 - Implemented **lecture summarization and detailed notes** using **Google Gemini LLM** (88% accuracy).  
 - Integrated **Clerk authentication** for user sessions with **98% reliability**.  
 
+### **MinuteMaster – Geesehacks 2025** *(January 2025)*  
+**Tech Stack:** Next.js, Express, OpenAI, Gemini, AWS S3, Clerk  
+- Engineered a **scalable audio processing pipeline**, achieving **78% speaker identification accuracy** with **100ms latency**.  
+- Developed **an efficient cloud storage architecture** with **AWS S3**, reducing **local infrastructure costs by 60%**.  
+- Co-developed an **AI-powered platform for meeting transcription and summarization**, achieving **81% accuracy**.  
+
 ### **Cyclist Bike-Share Case Study**  
 - Created an **ETL pipeline processing 2.5M+ rows**, reducing query time by **75%** using **BigQuery**.  
 - Developed **statistical models in R** predicting **user behavior with 89% accuracy**.  
 - Built **interactive Power BI dashboards** for real-time KPIs, reducing reporting time by **85%**.  
 
----
-###
+### **ScreenBoard** *(September 2024)*  
+**Tech Stack:** Python, OpenCV, MediaPipe, WebSocket  
+- Developed a **real-time gesture recognition system** with **74% accuracy** using **MediaPipe and custom CV algorithms**.  
+- Implemented **WebSocket connections** for **60fps video processing** with **16ms latency**.  
+- Created an **efficient caching system**, reducing **memory usage by 40%** while maintaining **30fps performance**.  
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=farazkabbo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
