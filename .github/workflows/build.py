@@ -161,5 +161,5 @@ files = {
                              "HackTheValley 2025 · winner"),
 }
 for n, s in files.items():
-    (OUT / n).write_text(s)
+    (OUT / n).write_text(s, encoding="utf-8")
 print("wrote", ", ".join(files))
