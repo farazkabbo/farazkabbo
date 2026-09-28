@@ -8,16 +8,16 @@ text { fill: #d6dde6; }
 <rect x="0.5" y="0.5" width="839" height="249" rx="10" fill="#0b0f14" stroke="#1f2a36"/>
 <text x="28" y="34" font-size="11" letter-spacing="2" class="dim">01  RUN LOG</text><line x1="138.8" y1="30" x2="701.2" y2="30" stroke="#1f2a36"/><text x="812" y="34" font-size="11" letter-spacing="2" text-anchor="end" class="faint">faraz.kabbo</text>
 <text x="28" y="84" font-size="30" font-weight="700">Mohammed Faraz Kabbo</text>
-<text x="28" y="110" font-size="13" class="dim">York University · Toronto, Canada · building AI that holds up in production</text>
+<text x="28" y="110" font-size="13" class="dim">York University Â· Toronto, Canada Â· building AI that holds up in production</text>
 <line x1="28" y1="130" x2="812" y2="130" stroke="#1f2a36"/>
 <text x="28" y="158" font-size="11" letter-spacing="2" class="dim">ROLE</text>
-<text x="130" y="158" font-size="13">AI &amp; software engineer · co-founder, Clarus</text>
+<text x="130" y="158" font-size="13">AI &amp; software engineer Â· co-founder, Clarus</text>
 <text x="28" y="182" font-size="11" letter-spacing="2" class="dim">FOCUS</text>
-<text x="130" y="182" font-size="13">RAG · AI agents · APIs · data pipelines</text>
+<text x="130" y="182" font-size="13">RAG Â· AI agents Â· APIs Â· data pipelines</text>
 <text x="28" y="206" font-size="11" letter-spacing="2" class="dim">STATUS</text>
-<text x="130" y="206" font-size="13">open to spring/fall 2027 internships · new grad</text>
+<text x="130" y="206" font-size="13">open to spring/fall 2027 internships Â· new grad</text>
 <text x="28" y="230" font-size="11" letter-spacing="2" class="dim">STYLE</text>
-<text x="130" y="230" font-size="13">measure first · ship it · keep a log</text>
+<text x="130" y="230" font-size="13">measure first Â· ship it Â· keep a log</text>
 <circle class="pulse" cx="720" cy="80" r="4" fill="#7ee787"/>
 <text x="732" y="84" font-size="12" class="g">status: ok</text>
 </svg>

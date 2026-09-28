@@ -7,5 +7,5 @@ text { fill: #d6dde6; }
 </style>
 
 <text x="28" y="34" font-size="11" letter-spacing="2" class="dim">03  BUILDS</text><line x1="130.0" y1="30" x2="666.0" y2="30" stroke="#1f2a36"/><text x="812" y="34" font-size="11" letter-spacing="2" text-anchor="end" class="faint">one number each</text>
-<text x="28" y="56" font-size="12" class="dim">three of 13 hackathon builds · the rest are on devpost</text>
+<text x="28" y="56" font-size="12" class="dim">three of 13 hackathon builds Â· the rest are on devpost</text>
 </svg>
