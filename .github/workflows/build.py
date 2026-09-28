@@ -3,7 +3,7 @@ Edit the data below and run: python3 build.py
 """
 from pathlib import Path
 
-OUT = Path(__file__).parent / "assets"
+OUT = Path(__file__).resolve().parent.parent.parent / "assets"
 OUT.mkdir(exist_ok=True)
 
 FONT = "ui-monospace, SFMono-Regular, 'JetBrains Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace"
