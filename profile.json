@@ -1,0 +1,64 @@
+{
+  "_about": "Hand-kept facts for the profile. Only verified facts go here. Numbers that change by themselves (contributions, streaks, repos, stars) are fetched by scripts/build.py from the GitHub API every night and are never typed here.",
+  "user": "farazkabbo",
+  "name": "Faraz",
+  "full_name": "Mohammed Faraz Kabbo",
+  "tagline": "CS @ York · co-founder of neb & Clarus · AI that holds up in production",
+  "pills": ["AI agents", "RAG + evals", "data pipelines", "2 startups"],
+  "sticker": "York CS '27",
+  "home": "https://farazkabbo.github.io/Portfolio/",
+  "links": [
+    {"label": "LinkedIn", "url": "https://www.linkedin.com/in/mohammed-faraz-kabbo/", "color": "blue"},
+    {"label": "Portfolio", "url": "https://farazkabbo.github.io/Portfolio/", "color": "card"},
+    {"label": "neb", "url": "https://myneb.si", "color": "green"},
+    {"label": "Devpost", "url": "https://devpost.com/farazkabbo", "color": "peach"},
+    {"label": "Email", "url": "mailto:faraz18@my.yorku.ca", "color": "lilac"}
+  ],
+  "hackathon_builds": {"value": 13, "source": "devpost.com/farazkabbo"},
+  "whoami": {
+    "host": "faraz@toronto",
+    "id": "faraz  ·  co-founder & CEO, neb  ·  Toronto, Canada",
+    "about": "I build AI agents, RAG systems and data pipelines that run in production.",
+    "now": [
+      "neb: 105 active users, 600 on the waitlist",
+      "Clarus: $80K pre-seed, live in 3 hospitals",
+      "building fastpipe: a lock-free C++ pipeline",
+      "open to 2027 internships · graduating Dec 2027"
+    ]
+  },
+  "apps": [
+    {
+      "slug": "neb", "name": "neb", "url": "https://myneb.si", "color": "blue", "icon": "circle",
+      "status": "live since Oct 2026",
+      "about": "Circle anything on your screen and ask out loud. An AI tutor that gives hints, not answers.",
+      "tags": ["Next.js", "Postgres", "Redis", "Gemini"],
+      "stats": "105 active users · 600 waitlist"
+    },
+    {
+      "slug": "clarus", "name": "Clarus", "url": "https://devpost.com/software/clarus-7werym", "color": "green", "icon": "cross",
+      "status": "funded · NSU Cohort 4",
+      "about": "A healthcare AI agent that calls and texts patients when results arrive. Zero lost events.",
+      "tags": ["Python", "FastAPI", "AI agents"],
+      "stats": "3 hospitals · $80K pre-seed · 2 awards"
+    },
+    {
+      "slug": "numen", "name": "Numen", "url": "https://devpost.com/software/numen-9l43wx", "color": "lilac", "icon": "nodes",
+      "status": "GenAI Genesis 2026",
+      "about": "Multi-agent team knowledge that knows when not to answer: low confidence goes to a human.",
+      "tags": ["Gemini", "embeddings", "evals"],
+      "stats": "60%+ auto-answered · 3 confidence tiers"
+    },
+    {
+      "slug": "vroomi", "name": "Vroomi", "url": "https://devpost.com/software/vroomi", "color": "peach", "icon": "car",
+      "status": "SpurHacks 2025 winner",
+      "about": "Student carpooling with a route optimizer that sequences every pickup, plus Stripe checkout.",
+      "tags": ["React", "TypeScript", "Stripe"],
+      "stats": "4+ riders per trip · winner"
+    }
+  ],
+  "more": [
+    {"label": "Mimicoo", "url": "https://devpost.com/software/mimicoo"},
+    {"label": "fastpipe", "url": "https://github.com/farazkabbo/fastpipe"},
+    {"label": "all 13 builds on Devpost", "url": "https://devpost.com/farazkabbo"}
+  ]
+}
